@@ -11,7 +11,7 @@ I am an aspiring Software Engineer :wave: from London, UK.
 
 
 
-:telescope: I'm currently studying Maths, Further Maths and Computer Science (Y13).
+:telescope: I'm currently studying Maths and Stats (First year undergrad).
 
 :seedling: Exploring Quantitative Research.
 
