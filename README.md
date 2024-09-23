@@ -7,7 +7,7 @@
 
 
 
-I am an aspiring Software Engineer :wave: from London, UK.
+I am an aspiring quant developer :wave: from London, UK.
 
 
 
