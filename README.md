@@ -13,7 +13,7 @@ I am an aspiring quant developer :wave: from London, UK.
 
 :telescope: I'm currently studying Maths and Stats (First year undergrad).
 
-:seedling: Exploring Mathemetical technqiues for optmimisation of systemtic trading system.
+:seedling: Exploring Mathematical Techniques for Optimizing Systematic Trading Systems
 
 :zap: In my free time, I work on my software engineering projects and read books about quant finance
 
